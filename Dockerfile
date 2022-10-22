@@ -7,7 +7,7 @@
 
 FROM alpine:3.11 as alpine-base
 # tag::dep_versions[]
-ENV VERSION_STABLE_GOURCE="0.51" \
+ENV VERSION_STABLE_GOURCE="0.53" \
     VERSION_MESA="19.3.5" \
     VERSION_LLVM="llvm9" \
     VERSION_FFMPEG="4.2.2" \
